@@ -21,5 +21,5 @@ function projectile SpawnProjectile(Vector Start, Rotator Dir)
 defaultproperties
 {
   AmmoClass=class'RocketLauncherAmmo'
-  ProjectileClass=class'RocketLauncherProjWTF'
+  ProjectileClass=Class'KFMod.LAWProj'
 }
