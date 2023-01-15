@@ -1,6 +1,6 @@
 # WTF! Nuclear Rocket Launcher 
 
-![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/MRLWTF/total)
+[![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/MRLWTF/total)](https://github.com/InsultingPros/MRLWTF/releases)
 
 Tactical, nuclear rocket launcher, have fun ☠. Cut from [WTF!](https://github.com/InsultingPros/WTF) old versions, created by Mistery.
 
